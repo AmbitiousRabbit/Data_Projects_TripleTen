@@ -1,5 +1,5 @@
 # Data_Projects_TripleTen
-Completed Projects While Apart Of TripleTen's DS Program | Total of 16 Projects - but the program has a total 17 sprints, the 16th sprint didn't have a project. 
+Here is the Projects' Description Directory - Total of 16 Projects | The program has a total of 17 sprints,  but the 16th sprint didn't have a project. 
 
 |  Project No.  |     Title     | Project Description |
 | ------------- | ------------- | ------------------- |
