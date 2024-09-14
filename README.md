@@ -1,5 +1,5 @@
 # Data_Projects_TripleTen
-Here is the Projects' Description Directory - Total of 16 Projects | The program has a total of 17 sprints,  but the 16th sprint didn't have a project. 
+Here is the Projects' Description Directory - Total of 16 Projects Repositories| The program has a total of 17 sprints,  but the 16th sprint didn't have a project. For an ease of access, I have each project's notebook directly linked above.
 
 |  Project No.  |     Title     | Project Description |
 | ------------- | ------------- | ------------------- |
